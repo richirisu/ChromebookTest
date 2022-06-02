@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromebookTest.Android", "ChromebookTest.Android\ChromebookTest.Android.csproj", "{4D9C53E6-6700-428C-A4B5-E79A8F5CE4E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromebookTest", "ChromebookTest\ChromebookTest.csproj", "{56689C1E-809D-4A4C-9565-8494F9A747AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D9C53E6-6700-428C-A4B5-E79A8F5CE4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9C53E6-6700-428C-A4B5-E79A8F5CE4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9C53E6-6700-428C-A4B5-E79A8F5CE4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9C53E6-6700-428C-A4B5-E79A8F5CE4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56689C1E-809D-4A4C-9565-8494F9A747AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56689C1E-809D-4A4C-9565-8494F9A747AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56689C1E-809D-4A4C-9565-8494F9A747AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56689C1E-809D-4A4C-9565-8494F9A747AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A0333A-18A2-4F02-95F6-9CBAEA3D023C}
+	EndGlobalSection
+EndGlobal
