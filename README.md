@@ -46,7 +46,7 @@ Chromebooks running Xamarin Android applications
 
 ## Regarding this test application
 
-This test application is made to be as simple as possible in order to reproduce the issue. It has a single page with a button that uppon calling makes some asynchronous (super simple) calculations. When clicking the button, a single new Task will be dispatched which executes a given number of nested tasks in order, e.g. 100 nested tasks. See the application log for the current number of executed tasks. When all nested tasks have been executed, the parent task returns and an alert is beeing showed.
+This test application is made to be as simple as possible in order to reproduce the issue. It has a single page with a button that upon calling makes some asynchronous (super simple) calculations. When clicking the button, a single new Task will be dispatched which executes a given number of nested tasks in order, e.g. 100 nested tasks. See the application log for the current number of executed tasks. When all nested tasks have been executed, the parent task returns and an alert is being shown.
 
 You can click the button again to start over.
 
